@@ -1,0 +1,293 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-04-11">
+    <creator>NetworkX 3.6.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="bipartite" type="long" />
+    </attributes>
+    <nodes>
+      <node id="1sij0h0" label="1sij0h0">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="quarquar_" label="quarquar_">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="TheLoneWolfMe" label="TheLoneWolfMe">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="StrongFaithlessness5" label="StrongFaithlessness5">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="St3fano_" label="St3fano_">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Malkariss888" label="Malkariss888">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="1sigx8f" label="1sigx8f">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="ermonzese" label="ermonzese">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Zappatrice" label="Zappatrice">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="1sigfju" label="1sigfju">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Flimsy_Inspector_735" label="Flimsy_Inspector_735">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Tricklash" label="Tricklash">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="sr_local" label="sr_local">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="ilcredibileHulk" label="ilcredibileHulk">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="1sifuco" label="1sifuco">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="listello" label="listello">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="1siflnq" label="1siflnq">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="An_Oxygen_Consumer" label="An_Oxygen_Consumer">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="nemo333338" label="nemo333338">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="hobbit_golfer" label="hobbit_golfer">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Fealionn" label="Fealionn">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="1sif9vf" label="1sif9vf">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="walterblockoni" label="walterblockoni">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="CapeTaun" label="CapeTaun">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="OkBeyond7427" label="OkBeyond7427">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="1sibslf" label="1sibslf">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Giulio_Andreotty" label="Giulio_Andreotty">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Dangerous-Education3" label="Dangerous-Education3">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="LazerDot" label="LazerDot">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="riffraff" label="riffraff">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="TizioInfiltrato" label="TizioInfiltrato">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="1si9ctk" label="1si9ctk">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Other_Procedure1971" label="Other_Procedure1971">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="DrLimp" label="DrLimp">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="robypez" label="robypez">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Round_Worldliness766" label="Round_Worldliness766">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="carMas82" label="carMas82">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="dmrlsn" label="dmrlsn">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="[deleted]" label="[deleted]">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="1si7ebv" label="1si7ebv">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Acrobatic_Cat_7676" label="Acrobatic_Cat_7676">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Hot_Acanthaceae_1357" label="Hot_Acanthaceae_1357">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="bin_b4sh" label="bin_b4sh">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="PhaceN52" label="PhaceN52">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="HumanDrone" label="HumanDrone">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="1si2ol2" label="1si2ol2">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="moonknight_nexus" label="moonknight_nexus">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="MonsieurCellophane" label="MonsieurCellophane">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="1sij0h0" target="quarquar_" id="0" />
+      <edge source="1sij0h0" target="TheLoneWolfMe" id="1" />
+      <edge source="1sij0h0" target="StrongFaithlessness5" id="2" />
+      <edge source="1sij0h0" target="St3fano_" id="3" />
+      <edge source="1sij0h0" target="Malkariss888" id="4" />
+      <edge source="1sigx8f" target="ermonzese" id="5" />
+      <edge source="1sigx8f" target="Zappatrice" id="6" />
+      <edge source="1sigfju" target="Flimsy_Inspector_735" id="7" />
+      <edge source="1sigfju" target="Tricklash" id="8" />
+      <edge source="1sigfju" target="sr_local" id="9" />
+      <edge source="1sigfju" target="ilcredibileHulk" id="10" />
+      <edge source="1sifuco" target="listello" id="11" />
+      <edge source="1siflnq" target="An_Oxygen_Consumer" id="12" />
+      <edge source="1siflnq" target="nemo333338" id="13" />
+      <edge source="1siflnq" target="hobbit_golfer" id="14" />
+      <edge source="1siflnq" target="Fealionn" id="15" />
+      <edge source="1sif9vf" target="walterblockoni" id="16" />
+      <edge source="1sif9vf" target="CapeTaun" id="17" />
+      <edge source="1sif9vf" target="OkBeyond7427" id="18" />
+      <edge source="1sibslf" target="Giulio_Andreotty" id="19" />
+      <edge source="1sibslf" target="Dangerous-Education3" id="20" />
+      <edge source="1sibslf" target="LazerDot" id="21" />
+      <edge source="1sibslf" target="riffraff" id="22" />
+      <edge source="1sibslf" target="TizioInfiltrato" id="23" />
+      <edge source="1si9ctk" target="Other_Procedure1971" id="24" />
+      <edge source="1si9ctk" target="DrLimp" id="25" />
+      <edge source="1si9ctk" target="robypez" id="26" />
+      <edge source="1si9ctk" target="Round_Worldliness766" id="27" />
+      <edge source="1si9ctk" target="carMas82" id="28" />
+      <edge source="1si9ctk" target="dmrlsn" id="29" />
+      <edge source="1si9ctk" target="[deleted]" id="30" />
+      <edge source="1si7ebv" target="Acrobatic_Cat_7676" id="31" />
+      <edge source="1si7ebv" target="Hot_Acanthaceae_1357" id="32" />
+      <edge source="1si7ebv" target="bin_b4sh" id="33" />
+      <edge source="1si7ebv" target="PhaceN52" id="34" />
+      <edge source="1si7ebv" target="HumanDrone" id="35" />
+      <edge source="1si2ol2" target="moonknight_nexus" id="36" />
+      <edge source="1si2ol2" target="MonsieurCellophane" id="37" />
+    </edges>
+  </graph>
+</gexf>
